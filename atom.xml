@@ -4,7 +4,7 @@
   <title><![CDATA[Data Driven Marketing Academy]]></title>
   <link href="https://themacmarketer.github.io/ddma/atom.xml" rel="self"/>
   <link href="https://themacmarketer.github.io/ddma/"/>
-  <updated>2018-05-27T15:11:46+08:00</updated>
+  <updated>2018-05-27T15:17:25+08:00</updated>
   <id>https://themacmarketer.github.io/ddma/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -18,7 +18,9 @@
     <updated>2018-05-27T15:10:49+08:00</updated>
     <id>https://themacmarketer.github.io/ddma/15274050495571.html</id>
     <content type="html"><![CDATA[
-<p><a href="https://git-scm.com/book/en/v2">https://git-scm.com/book/en/v2</a></p>
+<ul>
+<li><a href="https://git-scm.com/book/en/v2">https://git-scm.com/book/en/v2</a></li>
+</ul>
 
 ]]></content>
   </entry>
