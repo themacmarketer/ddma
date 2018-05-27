@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Data Driven Marketing Academy]]></title>
+  <link href="https://themacmarketer.github.io/ddma/atom.xml" rel="self"/>
+  <link href="https://themacmarketer.github.io/ddma/"/>
+  <updated>2018-05-27T14:34:57+08:00</updated>
+  <id>https://themacmarketer.github.io/ddma/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[Intro]]></title>
+    <link href="https://themacmarketer.github.io/ddma/15273996603865.html"/>
+    <updated>2018-05-27T13:41:00+08:00</updated>
+    <id>https://themacmarketer.github.io/ddma/15273996603865.html</id>
+    <content type="html"><![CDATA[
+<p>The tabular form is most commonly used to represent data for analysis . Each row indicates a data point representing a single observation, and each column shows a dimension describing the data point. </p>
+
+<p>Dimensions are also known as variables, attributes or features.</p>
+
+<h1 id="toc_0">Variable Types</h1>
+
+<p>There are four main types of dimensions, and it is important to distinguish between them to ensure that they are appropriate for our selected algorithms. </p>
+
+<p>Binary. This is the simplest type of variable, with only two possible options. In Table 1, a binary variable is used to indicate if customers bought fish. </p>
+
+<p>Categorical. When there are more than two options, the information can be represented via a categorical variable. In Table 1, a categorical variable is used to describe the customers’ species. Integer. These are used when the information can be represented as a whole number. In Table 1, an integer variable is used to indicate the number of fruits purchased by each customer. </p>
+
+<p>Continuous. This is the most detailed variable, representing numbers with decimal places. In Table 1, a continuous variable is used to indicate the amount spent by each customer.</p>
+
+<p><img src="media/15273996603865/15273998616412.jpg" alt=""/></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[DAT203.1x Module 3 Lesson 1]]></title>
+    <link href="https://themacmarketer.github.io/ddma/15269234557925.html"/>
+    <updated>2018-05-22T01:24:15+08:00</updated>
+    <id>https://themacmarketer.github.io/ddma/15269234557925.html</id>
+    <content type="html"><![CDATA[
+<p>Things covered today: </p>
+
+<ul>
+<li>2 main topics in this module: DAT203x (AML) and DAT209x (R Programming)</li>
+<li><p>DAT203x (all answers on Ryan&rsquo;s website)</p>
+
+<ul>
+<li>Lab 1 to Lab 6 = 60% overall course + Final Challenge</li>
+<li>2 types of models: Classification and Regression </li>
+<li>Lab 1: Classification on Credit Scoring </li>
+<li>Lab 2: Summary statistics, Regression on Automobile price data </li>
+<li>Lab 3: Simulation. Predict profitability of ice cream sales.</li>
+</ul></li>
+<li><p>DAT209x </p>
+
+<ul>
+<li>No final exams, only labs.</li>
+</ul></li>
+<li><p>Project is on AML</p>
+
+<ul>
+<li>Data: Flight delay dataset, &gt;2M rows</li>
+<li>Task: Create regression to predict flight delay, Publish as web service</li>
+</ul></li>
+<li><p>Go through Azure Machine Learning modules:</p>
+
+<ul>
+<li>Datasets</li>
+<li>Run History</li>
+<li>Jupyter Notebook (must convert output to csv first) 
+
+<ul>
+<li>Why use Jupyter? When dataset is big, it takes a long time to process in AML </li>
+<li>Alternative is to use Rmarkdown</li>
+</ul></li>
+</ul></li>
+<li><p>Homework: </p>
+
+<ul>
+<li>Experiment in Module 2 - convert it into Azure ML </li>
+<li>Lab 1 - 3 for DAT203x before first mentoring session with Kishan</li>
+</ul></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
