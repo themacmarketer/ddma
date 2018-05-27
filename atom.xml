@@ -4,13 +4,24 @@
   <title><![CDATA[Data Driven Marketing Academy]]></title>
   <link href="https://themacmarketer.github.io/ddma/atom.xml" rel="self"/>
   <link href="https://themacmarketer.github.io/ddma/"/>
-  <updated>2018-05-27T15:05:06+08:00</updated>
+  <updated>2018-05-27T15:11:46+08:00</updated>
   <id>https://themacmarketer.github.io/ddma/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[Data Science Resources]]></title>
+    <link href="https://themacmarketer.github.io/ddma/15274050495571.html"/>
+    <updated>2018-05-27T15:10:49+08:00</updated>
+    <id>https://themacmarketer.github.io/ddma/15274050495571.html</id>
+    <content type="html"><![CDATA[
+<p><a href="https://git-scm.com/book/en/v2">https://git-scm.com/book/en/v2</a></p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Intro]]></title>
