@@ -4,7 +4,7 @@
   <title><![CDATA[Data Driven Marketing Academy]]></title>
   <link href="https://themacmarketer.github.io/ddma/atom.xml" rel="self"/>
   <link href="https://themacmarketer.github.io/ddma/"/>
-  <updated>2018-05-27T15:26:07+08:00</updated>
+  <updated>2018-05-27T15:26:09+08:00</updated>
   <id>https://themacmarketer.github.io/ddma/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,41 @@
   </author>
   <generator uri="http://www.coderforart.com/">CoderForArt</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Polls]]></title>
+    <link href="https://themacmarketer.github.io/ddma/15281384531733.html"/>
+    <updated>2018-06-05T02:54:13+08:00</updated>
+    <id>https://themacmarketer.github.io/ddma/15281384531733.html</id>
+    <content type="html"><![CDATA[
+<p><a href="https://api.gh-polls.com/poll/01CF62C38SZQ85KAYQ953JT6RX/A/vote"><img src="https://api.gh-polls.com/poll/01CF62C38SZQ85KAYQ953JT6RX/A" alt=""/></a><br/>
+<a href="https://api.gh-polls.com/poll/01CF62C38SZQ85KAYQ953JT6RX/B/vote"><img src="https://api.gh-polls.com/poll/01CF62C38SZQ85KAYQ953JT6RX/B" alt=""/></a><br/>
+<a href="https://api.gh-polls.com/poll/01CF62C38SZQ85KAYQ953JT6RX/C/vote"><img src="https://api.gh-polls.com/poll/01CF62C38SZQ85KAYQ953JT6RX/C" alt=""/></a><br/>
+<a href="https://api.gh-polls.com/poll/01CF62C38SZQ85KAYQ953JT6RX/D/vote"><img src="https://api.gh-polls.com/poll/01CF62C38SZQ85KAYQ953JT6RX/D" alt=""/></a></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[20180604 Live Session with Kishan]]></title>
+    <link href="https://themacmarketer.github.io/ddma/15281135154610.html"/>
+    <updated>2018-06-04T19:58:35+08:00</updated>
+    <id>https://themacmarketer.github.io/ddma/15281135154610.html</id>
+    <content type="html"><![CDATA[
+<ul>
+<li>R Programming 
+
+<ul>
+<li>vector for loops</li>
+<li>vector while loops</li>
+<li>vector repeat loops</li>
+</ul></li>
+<li>Programming functions in R</li>
+<li></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Data Science Resources]]></title>
@@ -47,6 +82,8 @@
 <p>Continuous. This is the most detailed variable, representing numbers with decimal places. In Table 1, a continuous variable is used to indicate the amount spent by each customer.</p>
 
 <p><img src="media/15273996603865/15273998616412.jpg" alt=""/></p>
+
+<p>An overfitted model would yield highly accurate predictions for the current data, but would be less generalizable to future data.</p>
 
 ]]></content>
   </entry>
